@@ -1,0 +1,202 @@
+body{
+    font-family: 'Belanosima', sans-serif;
+    padding: 0px;
+    margin: 0px;
+   
+
+}
+.header-part{
+
+    background-image: url(images/donation4.jpg);
+    background-size: cover;
+    height: 669px;
+    width: 1440px;
+    opacity: .8;
+    
+}
+
+.donation-part{
+
+    position: relative;
+    text-align: center;
+    color: #fdf9f9;
+    top:225px;
+}
+
+.donate-button{
+
+    text-decoration: none;
+    padding: 10px;
+    background-image: linear-gradient(rgb(255, 51, 0),tomato);
+    border-radius: 7px;
+    color: #fdf9f9;
+}
+
+.button-fix{
+
+    margin: 40px 0px;
+}
+
+.donation-today{
+
+    margin: 50px;
+
+}
+.text-donate{
+
+    text-align: center;
+   
+}
+
+.bolder-cls{
+    font-weight: bold;
+}
+
+.donate-part-total{
+
+    text-align: center;
+}
+
+.donate-amount{
+
+    /* text-align: center; */
+    margin: 10px 20px;
+}
+
+.donate-amount-part{
+
+    display: flex;
+    justify-content: center;
+   
+}
+
+.tk-part{
+
+    margin:20px ;
+    padding:20px ;
+    background-color: #fdf9f9;
+
+}
+
+.tk-part:hover{
+
+    border-radius: 10px;
+    background-color: #ee150581;
+    border: 3px solid red;
+    color: white;
+
+}
+
+.donate-click{
+
+    text-align: center;
+}
+.other{
+
+    opacity: .5;
+}
+
+hr{
+    margin:0px 300px;
+    padding: 0px 100px;
+}
+
+.text-part-item{
+    text-align: center;
+}
+
+.main-contain{
+
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.main-item{
+
+    padding: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+#item-first{
+
+    background-color: rgba(161, 129, 82, 0.836);
+}
+
+#item-second{
+
+    background-color: rgba(199, 87, 22, 0.822);
+}
+
+#item-third{
+
+    background-color: rgba(161, 39, 90, 0.733);
+}
+
+.main-contain{
+
+    margin: 30px 20px;
+}
+
+.main-part{
+    margin: 30px 20px;
+}
+
+.feature{
+
+    width: 50%;
+    padding: 5%;
+}
+
+.contant{
+
+    display: flex;
+}
+
+.img-child{
+
+    width: 80%;
+    border-radius: 10px;
+}
+
+.last-part{
+
+    text-align: center;
+}
+
+.Subscribe{
+
+    display: flex;
+    justify-content: center;
+    margin: 50px 10px;
+}
+
+.donate-button-input{
+
+    text-decoration: none;
+    padding: 10px;
+    background-image: linear-gradient(rgb(219, 215, 214),rgb(248, 245, 244));
+    border-radius: 7px;
+    color: #1f1d1d;
+  
+}
+
+.complete{
+
+    text-align: center;
+    background-color: black;
+    height: 177px;
+    width: 1440px;
+
+}
+
+.footer-head{
+
+    color: tomato;
+    padding: 10px;
+}
+
+.footer-pen{
+    color: #fdf9f9;
+}
